@@ -26,12 +26,12 @@ Rest API написан на языке java, с использованием ф
 ```
 create database demo_rest;
 ```
-После запуска в базе создаются таблицы user и todo: <img title="Post method" src="images/screenshots/db.png">
+После запуска в базе создаются таблицы user и todo: <img title="Post method" src="images/screenshots/datab.png">
 
 ### :star: Создание пользователя
 Через метод POST создаём пользователя:
 <p align="center">
-    <img title="Post method" src="images/screenshots/postOk.png">
+    <img title="Post method" src="images/screenshots/postOkay.png">
 </p>
 
 ### :star: Попытка создать пользователя с одинаковым именем
@@ -43,24 +43,24 @@ create database demo_rest;
 ### :star: Удаление пользователя
 Запрос вернет сообщение с ID удаленного пользователя:
 <p align="center">
-    <img title="Post method" src="images/screenshots/delete.png">
+    <img title="Post method" src="images/screenshots/del.png">
 </p>
 
 ### :star: Создание задачи пользователю
 Запрос вернет сообщение с id и статусом задачи:
 <p align="center">
-    <img title="Post method" src="images/screenshots/postToDo.png">
+    <img title="Post method" src="images/screenshots/posToDo.png">
 </p>
 
 ### :star: Получить информацию о пользователе
 Запрос вернет сообщение о пользователе и его задачах:
 <p align="center">
-    <img title="Post method" src="images/screenshots/getUser.png">
+    <img title="Post method" src="images/screenshots/getUsers.png">
 </p>
 
 ### :star: Информация в таблицах user и todo:
 Запрос вернет сообщение о пользователе и его задачах:
 <p>
-    <img title="Post method" src="images/screenshots/dbtUsers.png">
-    <img title="Post method" src="images/screenshots/dbToDo.png">
+    <img title="Post method" src="images/screenshots/dbtUser.png">
+    <img title="Post method" src="images/screenshots/dbToDos.png">
 </p>
