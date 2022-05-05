@@ -37,7 +37,7 @@ create database demo_rest;
 ### :star: Попытка создать пользователя с одинаковым именем
 Запрос вернет сообщение "Пользователь с таким именем уже существует", при попытке создать пользователя с уже существующем именем:
 <p align="center">
-    <img title="Post method" src="images/screenshots/postSecond.png">
+    <img title="Post method" src="images/screenshots/postSec.png">
 </p>
 
 ### :star: Удаление пользователя
